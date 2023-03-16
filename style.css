@@ -1,0 +1,29 @@
+* {
+    font-family: 'Eczar', serif;
+    background-color:azure;
+    color:rgb(11, 13, 25);
+
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    width: 50%;
+    text-align: justify;
+    margin: 10px auto;
+}
+div {
+    display: block;
+    margin: 10px 44%;
+}
+input {
+    width: 100px;
+    text-align: center;
+    margin-top: 15px;
+}
+button {
+    width:25px;
+}
+button:active {
+    background: gray;
+}
